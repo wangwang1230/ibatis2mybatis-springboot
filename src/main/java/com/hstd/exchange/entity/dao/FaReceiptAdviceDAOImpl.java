@@ -8,7 +8,7 @@ import java.util.Map;
 import com.hstd.exchange.entity.model.FaReceiptAdvice;
 import com.hstd.exchange.entity.model.FaReceiptAdviceExample;
 import com.hstd.exchange.entity.model.FaReceiptAdviceKey;
-import com.ibatis2mybaits.adpter.SqlMapClient;
+import com.ibatis.sqlmap.client.SqlMapClient;
 
 public class FaReceiptAdviceDAOImpl implements FaReceiptAdviceDAO {
 
